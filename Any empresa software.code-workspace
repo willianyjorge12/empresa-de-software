@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Any"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Empresa de software"
+	}
+}
